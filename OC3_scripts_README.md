@@ -54,3 +54,22 @@ latitude-depth sections for each basin, the benthic foraminiferal d13C or d18O d
 and the benthic foraminiferal d13C or d18O difference between the second and first time slices (right panels). 
 The images are saved as eps files. In order to calculate the differences and visualize, the scripts bins the data positions
 into a regular 5º x 200 m grid. 
+
+
+Python packages to access the data and run analysis scripts accompanying this publication:
+
+All scripts ------ os   
+All scripts ------ glob   
+All scripts ------ pandas   
+All scripts ------ numpy   
+All scripts ------ tkinter.filedialog   
+All scripts excepth list_positions.py ------ scipy   
+All scripts with a graphical output ------ matplotlib 
+All scripts with a graphical output ------ matplotlib.patches 
+compare_time_slices.py and time_slice.py ------ random 
+time_slice.py ------ cartopy 
+time_slice.py ------ cartopy.feature 
+
+
+
+
